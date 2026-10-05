@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-05T14:05:20.034Z",
+  "scope": "Authored terminology/schema structural completeness; no professional clinical or linguistic approval",
+  "locales": [
+    "pt-br",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "it",
+    "ar",
+    "zh",
+    "ja",
+    "hi"
+  ],
+  "fieldCount": 13,
+  "outputCount": 9,
+  "assertions": 540,
+  "failures": 0,
+  "spec": {
+    "file": "predict-prostate-integration-spec.json",
+    "bytes": 96559,
+    "sha256": "efc067790928643cdc339634a9e4755ea015f315303ea3aa4692407705d19809"
+  },
+  "adapter": {
+    "file": "predict-prostate.cjs",
+    "bytes": 5316,
+    "sha256": "8b3653bb2305ad6d572e3099b25ce8261785dc5128d5757f873b76078bd8abcf"
+  },
+  "sourceCapture": {
+    "file": "predict-prostate-primary/capture.json",
+    "bytes": 12614,
+    "sha256": "7ec2aa2398066feacb5b9c672242583b948c5969c3aee2733ad8312ac3d9c8a5"
+  }
+}

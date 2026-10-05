@@ -1,0 +1,27 @@
+{
+  "id": "predict-prostate",
+  "methodVersion": "PREDICT Prostate 1.1 · BRCA/PPC model; pinned official source 761f20b5 (2026-07-30)",
+  "sourceCommit": "761f20b554d9d3021320fd59cf9a73ece02b32b5",
+  "source": {
+    "repository": "https://github.com/WintonCentre/predict-prostate",
+    "model": "https://github.com/WintonCentre/predict-prostate/blob/761f20b554d9d3021320fd59cf9a73ece02b32b5/src/predict_prostate/models/prostate_release.cljs",
+    "contract": "https://github.com/WintonCentre/predict-prostate/blob/761f20b554d9d3021320fd59cf9a73ece02b32b5/src/predict_prostate/state/config.cljs",
+    "clinicalContent": "https://github.com/WintonCentre/predict-prostate/blob/761f20b554d9d3021320fd59cf9a73ece02b32b5/src/predict_prostate/content.cljs",
+    "publication": "https://doi.org/10.1371/journal.pmed.1002758"
+  },
+  "license": "EPL-1.0-or-later",
+  "adapterSha256": "8b3653bb2305ad6d572e3099b25ce8261785dc5128d5757f873b76078bd8abcf",
+  "technicalEvidence": {
+    "file": "predict-prostate-tests.json",
+    "bytes": 45907,
+    "sha256": "5bbbfc45b7b52e580d4f268c350639c4dfc11d91e5104b6ea01aff859a5390e4"
+  },
+  "independentNumericalEvidence": {
+    "file": "predict-prostate-independent-full-curves-r1.json",
+    "bytes": 1153877,
+    "sha256": "101cd6180feee5bb6166fe553989ea2a36b5817632c936885828acd02b0e8f1d"
+  },
+  "clinicalReview": "not-performed",
+  "professionalLanguageReview": "not-performed",
+  "providerDemoParity": "not-asserted"
+}

@@ -1,0 +1,15 @@
+{
+  "age": 65,
+  "psa": 11,
+  "tStage": 2,
+  "gradeGroup": 4,
+  "hospitalAdmission": 1,
+  "comorbidity": 0,
+  "brca": 0,
+  "biopsyAvailable": 1,
+  "coresTaken": 12,
+  "coresInvolved": 3,
+  "metastasis": 0,
+  "intraductalOrCribriform": 0,
+  "years": 15
+}

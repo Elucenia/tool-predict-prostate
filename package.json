@@ -1,0 +1,14 @@
+{
+  "name": "@elucenia/tool-predict-prostate",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Isolated ELUCENIA per-tool source candidate; synthetic evidence, not clinical approval",
+  "license": "EPL-1.0-or-later",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "test": "node test-predict-prostate.cjs && node compare-predict-prostate-independent.cjs",
+    "calculate": "node cli.cjs"
+  }
+}
